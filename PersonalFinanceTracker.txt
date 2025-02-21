@@ -1,0 +1,9 @@
+List Of Income Sources:
+100.0
+Total Income: 100.0
+
+List Of Expenses:
+100.0
+Total Expenses: 100.0
+
+The balance for 2025 is: 0.0
